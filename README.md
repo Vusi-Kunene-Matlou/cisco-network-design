@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/Vusi-Kunene-Matlou/API-SECURITY-SCANNER?style=social)
+![Cisco Badge](https://img.shields.io/badge/Cisco-Networking-blue?style=flat-square&logo=cisco)
+
+
 # Cisco Packet Tracer Network Simulation
 
 Project Title: Fintech Network Security Simulation
