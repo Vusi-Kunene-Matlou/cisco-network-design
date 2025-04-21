@@ -27,7 +27,7 @@ This project simulates a secure network infrastructure designed for a fintech co
 - Troubleshooting connectivity issues
 
 ## 🖼️ Network Topology
-![Network Diagram](network.png)
+![Network Diagram](MEDICARE.png)
 
 ---
 
